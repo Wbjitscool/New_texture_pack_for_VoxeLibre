@@ -61,3 +61,7 @@ mcl_signs:standing_sign45_sprucewood all mcl_sign_spruce.png
 mcl_signs:standing_sign67_5_sprucewood all mcl_sign_spruce.png
 
 mcl_flowers:waterlily inventory,wield flowers_waterlily_inv.png
+
+mcl_beacons:beacon_beam sides mcl_beacons_beam_base_side.png
+
+mcl_beacons:beacon_beam top mcl_beacons_beam_base_top.png
