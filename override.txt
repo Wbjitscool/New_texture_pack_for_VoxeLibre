@@ -65,3 +65,82 @@ mcl_flowers:waterlily inventory,wield flowers_waterlily_inv.png
 mcl_beacons:beacon_beam sides mcl_beacons_beam_base_side.png
 
 mcl_beacons:beacon_beam top mcl_beacons_beam_base_top.png
+
+MCLA sign fixes:
+
+mcl_signs:wall_sign_cherry_blossom inventory,wield mcl_cherry_blossom_sign_inv.png
+mcl_signs:wall_sign_cherry_blossom all mcl_cherry_blossom_sign.png
+mcl_signs:standing_sign_cherry_blossom all mcl_cherry_blossom_sign.png
+mcl_signs:standing_sign22_5_cherry_blossom all mcl_cherry_blossom_sign.png
+mcl_signs:standing_sign45_cherry_blossom all mcl_cherry_blossom_sign.png
+mcl_signs:standing_sign67_5_cherry_blossom all mcl_cherry_blossom_sign.png
+
+mcl_signs:wall_sign_bamboo inventory,wield mcl_bamboo_bamboo_sign_wield.png
+mcl_signs:wall_sign_bamboo all mcl_bamboo_bamboo_sign.png
+mcl_signs:standing_sign_bamboo all mcl_bamboo_bamboo_sign.png
+mcl_signs:standing_sign22_5_bamboo all mcl_bamboo_bamboo_sign.png
+mcl_signs:standing_sign45_bamboo all mcl_bamboo_bamboo_sign.png
+mcl_signs:standing_sign67_5_bamboo all mcl_bamboo_bamboo_sign.png
+
+mcl_signs:wall_sign_oak inventory,wield mcl_signs_default_sign.png
+mcl_signs:wall_sign_oak all mcl_signs_sign.png
+mcl_signs:standing_sign_oak all mcl_signs_sign.png
+mcl_signs:standing_sign22_5_oak all mcl_signs_sign.png
+mcl_signs:standing_sign45_oak all mcl_signs_sign.png
+mcl_signs:standing_sign67_5_oak all mcl_signs_sign.png
+
+mcl_signs:wall_sign_acacia inventory,wield mcl_sign_acacia_sign_inv.png
+mcl_signs:wall_sign_acacia all mcl_sign_acacia.png
+mcl_signs:standing_sign_acacia all mcl_sign_acacia.png
+mcl_signs:standing_sign22_5_acacia all mcl_sign_acacia.png
+mcl_signs:standing_sign45_acacia all mcl_sign_acacia.png
+mcl_signs:standing_sign67_5_acacia all mcl_sign_acacia.png
+
+mcl_signs:wall_sign_birch inventory,wield mcl_sign_birch_sign_inv.png
+mcl_signs:wall_sign_birch all mcl_sign_birch.png
+mcl_signs:standing_sign_birch all mcl_sign_birch.png
+mcl_signs:standing_sign22_5_birch all mcl_sign_birch.png
+mcl_signs:standing_sign45_birch all mcl_sign_birch.png
+mcl_signs:standing_sign67_5_birch all mcl_sign_birch.png
+
+mcl_signs:wall_sign_dark_oak inventory,wield mcl_signs_default_sign_dark.png
+mcl_signs:wall_sign_dark_oak all mcl_signs_sign_dark.png
+mcl_signs:standing_sign_dark_oak all mcl_signs_sign_dark.png
+mcl_signs:standing_sign22_5_dark_oak all mcl_signs_sign_dark.png
+mcl_signs:standing_sign45_dark_oak all mcl_signs_sign_dark.png
+mcl_signs:standing_sign67_5_dark_oak all mcl_signs_sign_dark.png
+
+mcl_signs:wall_sign_jungle inventory,wield mcl_sign_jungle_sign_inv.png
+mcl_signs:wall_sign_jungle all mcl_sign_jungle.png
+mcl_signs:standing_sign_jungle all mcl_sign_jungle.png
+mcl_signs:standing_sign22_5_jungle all mcl_sign_jungle.png
+mcl_signs:standing_sign45_jungle all mcl_sign_jungle.png
+mcl_signs:standing_sign67_5_jungle allmcl_sign_jungle.png
+
+mcl_signs:wall_sign_mangrove inventory,wield mcl_sign_mangrove_sign_inv.png
+mcl_signs:wall_sign_mangrove all mcl_sign_mangrove.png
+mcl_signs:standing_sign_mangrove all mcl_sign_mangrove.png
+mcl_signs:standing_sign22_5_mangrove all mcl_sign_mangrove.png
+mcl_signs:standing_sign45_mangrove all mcl_sign_mangrove.png
+mcl_signs:standing_sign67_5_mangrove all mcl_sign_mangrove.png
+
+mcl_signs:wall_sign_spruce inventory,wield mcl_sign_spruce_sign_inv.png
+mcl_signs:wall_sign_spruce all mcl_sign_spruce.png
+mcl_signs:standing_sign_spruce all mcl_sign_spruce.png
+mcl_signs:standing_sign22_5_spruce all mcl_sign_spruce.png
+mcl_signs:standing_sign45_spruce all mcl_sign_spruce.png
+mcl_signs:standing_sign67_5_spruce all mcl_sign_spruce.png
+
+mcl_signs:wall_sign_crimson inventory,wield mcl_sign_crimson_sign_inv.png
+mcl_signs:wall_sign_crimson all mcl_sign_crimson.png
+mcl_signs:standing_sign_crimson all mcl_sign_crimson.png
+mcl_signs:standing_sign22_5_crimson all mcl_sign_crimson.png
+mcl_signs:standing_sign45_crimson all mcl_sign_crimson.png
+mcl_signs:standing_sign67_5_crimson all mcl_sign_crimson.png
+
+mcl_signs:wall_sign_warped inventory,wield mcl_sign_warped_inv.png
+mcl_signs:wall_sign_warped all mcl_sign_warped.png
+mcl_signs:standing_sign_warped all mcl_sign_warped.png
+mcl_signs:standing_sign22_5_warped all mcl_sign_warped.png
+mcl_signs:standing_sign45_warped all mcl_sign_warped.png
+mcl_signs:standing_sign67_5_warped all mcl_sign_warped.png
