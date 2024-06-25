@@ -64,7 +64,7 @@ mcl_flowers:waterlily inventory,wield flowers_waterlily_inv.png
 
 mcl_beacons:beacon_beam sides mcl_beacons_beam_base_side.png
 
-mcl_beacons:beacon_beam top mcl_beacons_beam_base_top.png
+mcl_beacons:beacon_beam top,bottom mcl_beacons_beam_base_top_and_bottom.png
 
 mcl_itemframes:item_frame inventory,wield mcl_itemframes_item_frame_inv.png
 mcl_itemframes:glow_item_frame inventory,wield mcl_itemframes_glow_item_frame_inv.png
